@@ -1,4 +1,4 @@
-- 🤎 Hi, I’m @withbeautiful
+- 🤎 Hi, I’m a digital nomad
 - 🧺 I’m interested in photography and minimalism 
 - 🦦 I’m currently learning Elixir
 
