@@ -1,5 +1,4 @@
-- 🤎 Hi, I’m a digital nomad
-- 🧺 I’m interested in photography and minimalism 
+- 🧺 Hi, I’m a digital nomad
 - 🦦 I’m currently learning JS
 
 <!---
