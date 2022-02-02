@@ -1,6 +1,6 @@
 - 🤎 Hi, I’m a digital nomad
 - 🧺 I’m interested in photography and minimalism 
-- 🦦 I’m currently learning Elixir
+- 🦦 I’m currently learning JS
 
 <!---
 withbeautiful/withbeautiful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
